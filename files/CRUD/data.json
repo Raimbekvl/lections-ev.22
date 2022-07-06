@@ -1,0 +1,13 @@
+[
+    {
+        "id": 0,
+        "title": "Iphone 13 Pro Max",
+        "price": 1000,
+        "descreption": "Super fast and good smartphone"
+    },
+    {   "id": 1,
+        "title": "Samsung Galaxy S22 Ultra",
+        "price": 1200,
+        "descreption": "Super puper fast and good smartphone"
+    }
+]
